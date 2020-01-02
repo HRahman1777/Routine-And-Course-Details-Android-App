@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/gradiant_backgorund3"
+    tools:context=".AdminUpload">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ADMIN (Updates)"
+            android:textColor="#000"
+            android:textStyle="bold|italic"
+            android:textSize="30dp"
+            />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/updateTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:gravity="center"
+        android:textSize="12dp"
+        android:textColor="#000"
+        android:textStyle="bold|italic"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+
+        <Button
+            android:id="@+id/headingUPdBtn"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:text="Heading"
+            android:background="@drawable/button_background"
+            android:textSize="18dp"
+            android:layout_marginRight="5dp"
+            android:textAllCaps="false"
+            />
+        <Button
+            android:id="@+id/courseUPdBtn"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:text="CourseInfo"
+            android:background="@drawable/button_background"
+            android:textSize="18dp"
+            android:layout_marginRight="5dp"
+            android:textAllCaps="false"
+            />
+        <Button
+        android:id="@+id/noticeUPdBtn"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:background="@drawable/button_background"
+            android:textSize="18dp"
+        android:text="Notice"
+        android:textAllCaps="false"
+        />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        >
+        <Button
+            android:id="@+id/satUPdBtn"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:text="Saturday"
+            android:textSize="18dp"
+            android:background="@drawable/button_background"
+            android:layout_marginRight="5dp"
+            android:textAllCaps="false"
+            />
+        <Button
+            android:id="@+id/sunUPdBtn"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:textSize="18dp"
+            android:background="@drawable/button_background"
+            android:text="Sunday"
+            android:layout_marginRight="5dp"
+            android:textAllCaps="false"
+            />
+        <Button
+            android:id="@+id/monUPdBtn"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:textSize="18dp"
+            android:background="@drawable/button_background"
+            android:text="Monday"
+            android:textAllCaps="false"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        >
+        <Button
+            android:id="@+id/tueUPdBtn"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:text="Tuesday"
+            android:textSize="18dp"
+            android:background="@drawable/button_background"
+            android:textAllCaps="false"
+            android:layout_marginRight="5dp"
+            />
+        <Button
+            android:id="@+id/wedUPdBtn"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:text="Wednesday"
+            android:textSize="18dp"
+            android:background="@drawable/button_background"
+            android:layout_marginRight="5dp"
+            android:textAllCaps="false"
+            />
+        <Button
+            android:id="@+id/thurUPdBtn"
+            android:layout_width="100dp"
+            android:layout_height="45dp"
+            android:text="Thursday"
+            android:textSize="18dp"
+            android:background="@drawable/button_background"
+            android:textAllCaps="false"
+            />
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

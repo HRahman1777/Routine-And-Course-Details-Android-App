@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/mainbgnd"
+    tools:context=".Notice">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Notice"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="35dp"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/noticeTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        android:background="#635E35B1"
+        android:gravity="center"
+        android:textIsSelectable="true"
+        android:textColor="#000"
+        android:textSize="12dp"
+        android:layout_marginTop="25dp"
+        android:textStyle="bold"
+        />
+
+
+    <Button
+        android:id="@+id/noticeRefreshBtnId"
+        android:layout_width="120dp"
+        android:layout_height="35dp"
+        android:text="Refresh"
+        android:textSize="15dp"
+        android:layout_marginTop="20dp"
+        android:textAllCaps="false"
+        android:background="@drawable/buttone_background2"
+        />
+
+</LinearLayout>

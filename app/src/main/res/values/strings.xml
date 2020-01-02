@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DIU PC-B 49th-BatchCSE</string>
+
+    <string name="home">DIU PC-B\n49th-Batch\nCSE</string>
+
+    <string name="hints">What You See Is Being Shown \nTo You\n:)</string>
+
+    <string name="Refresh">Press Refresh For Update Your Routine\n(Internet connection needed for first time)</string>
+
+
+    <string name="about"> # This app do work both offline and online. Just for first time you need to use over internet.
+
+\n# When routine or course teachers information has changed then if you run this over internet, it will update automatically.(For Make sure, you
+        can press Refresh for each UI)
+
+        \n#You can copy text from CourseInformation so that it will be easy to get GOOGLE CLASSROOM CODE for you.
+
+\n# To update its information it takes MAXIMUM 8-15kb (less 2-5kb), so try to use over internet (when new routine or information comes).
+
+\n\n# YOU DONT NEED TO UNINSTALL IT, EVERY SEMESTER IT WILL UPDATE AUTOMATICALLY. (Just run it over internet to get updates)
+
+\n\n\n\t\tI am not so good on designing, so plz ignore it. I just tried to make it and I think it will be helpful for my class-mates (PC-B 49th-CSE Batch).
+\n\n\n\nTHANK YOU FOR INSTALLING IT :)
+              \n #HasiburRahman
+           \n hasibur15-1777@diu.edu.bd
+              \n  (01-01-2020)   </string>
+
+</resources>

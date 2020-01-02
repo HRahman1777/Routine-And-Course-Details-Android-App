@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88629832745",
+    "firebase_url": "https://diu-pc-b-49th-batchcse.firebaseio.com",
+    "project_id": "diu-pc-b-49th-batchcse",
+    "storage_bucket": "diu-pc-b-49th-batchcse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88629832745:android:d7cdc653021d30bd2c0038",
+        "android_client_info": {
+          "package_name": "com.example.diupc_b49th_batchcse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88629832745-fgf57v0bnn32nrbf2vjlrv0k2pk53q0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diupc_b49th_batchcse",
+            "certificate_hash": "ad45725cd36272babb2932e2bb96ee88136590d1"
+          }
+        },
+        {
+          "client_id": "88629832745-mb0nv88gu3lod1trnvpob1sg1c8356pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLDPaw7z4Xa2o9X-es3YlB7TGbTyXSUPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88629832745-mb0nv88gu3lod1trnvpob1sg1c8356pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
