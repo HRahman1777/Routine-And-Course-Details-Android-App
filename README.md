@@ -1,7 +1,7 @@
 # Routine-And-Course-Details-Android-App
 This is a very simple android app with realtime(firebase) database made with Android Studio which is useful to get routine and course information for a specific seciton.  
 
-apk link >> http://bit.ly/routinePCB
+## apk link >> http://bit.ly/routinePCB
 
 
 #This app do work both offline and online. Just for first time it needs internet connection, then it will work properly on offline.
